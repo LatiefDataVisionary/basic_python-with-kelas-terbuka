@@ -1,0 +1,3 @@
+Jon si Joni
+Ucup surucup
+tambah lagi dg append(a)
