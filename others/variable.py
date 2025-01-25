@@ -1,0 +1,1 @@
+data = "Lathif guantengg bangettt!!!"

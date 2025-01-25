@@ -1,0 +1,19 @@
+Nama = "Yusuf"
+Alamat ="""Sogesanden, Srigading, Sanden, Bantul, DIY"""
+Umur = 10 
+Jenis_kelamin = "Laki-laki"
+Tinggi = 153
+Berat = 35
+Murid_pintar = False
+
+print("Nama: ", Nama)
+print("Alamat: ", Alamat)
+print("Umur: ", Umur)
+print("Jenis Kelamin: ", Jenis_kelamin)
+print("Tinggi: ", Tinggi)
+print("Berat badan: ", Berat)
+
+if(Murid_pintar):
+    print("Dia adalah murid yang pintar")
+else:
+    print("Dia adalah murid yang BODOHHHH!!")
